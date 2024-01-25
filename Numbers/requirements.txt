@@ -1,0 +1,4 @@
+num2words
+gtts
+mpyg321
+tkinter
