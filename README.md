@@ -6,7 +6,7 @@ This app generates a number between the given range, It shows the number in Kanj
 Number range can be adjusted using the **min_number** and **max_number** variable
 
 ## Requirements
-Added dependecy packages in requirements.txt
+Added dependecy packages in requirements.txt <br />
 Make sure mpg123 (https://www.mpg123.de/download.shtml) is installed to output the audio
 
 ## Screenshot
